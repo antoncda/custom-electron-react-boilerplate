@@ -1,2 +1,9 @@
 //to run
 yarn electron:serve
+
+//git setup
+git init
+git add .
+git commit . -m "basic ver"
+git remote add <remotename> <urlToRemote>
+git push remote master
